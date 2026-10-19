@@ -1,0 +1,11 @@
+.env
+.env.local
+*.log
+storage/servers/*
+storage/backups/*
+storage/logs/*
+node_modules/
+vendor/
+.DS_Store
+*.swp
+*.swo
